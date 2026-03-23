@@ -35,3 +35,9 @@ The project aims to create a playable software synthesiser inspired by helioseis
 ## Working project name
 
 Until a final brand name is chosen, these documents use the working title **Solar and Plasma Synthesiser**.
+
+
+**I/US Source-Available License 1.0**
+
+Copyright (c) 2026 Pezhman Farhangi  
+I/US Music
