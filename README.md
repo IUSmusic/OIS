@@ -29,6 +29,27 @@ SolarSynth is a dual-engine instrument that combines a solar field synthesiser w
 - Routing matrix for sequencer-to-synth sends
 - Shared monitoring values for future top-row gauges on the main UI
 
+## Included backend work
+- Solar field synth engine with Helio, Radio, and Plasma behaviour
+- Preset save and load
+- Morph Lock, sustain, field hold, arpeggiator, recording, and WAV export
+- Stereo input bus support and external input analysis
+- DMS-inspired three-track sequencer backend
+- Optional sequencer routing into synth lanes and hybrid routing backend
+- Multi-lane synth backend with master synth lane plus optional sequencer-driven synth lanes
+
+## Included main UI work
+- Split UI into **Live** and **Settings** views
+- Live view now matches the agreed architecture more closely:
+  - top-row status gauges
+  - master track for synth input
+  - official-style monitoring track with live scope
+  - three DMS sequencer track overviews
+  - transport and recording controls on the main page
+- Settings view keeps detailed synth controls off the main performance page
+- Settings controls use compact bar-style vertical sliders instead of a wall of rotary knobs
+- Morph response and slider drag feel are slightly more sensitive than before
+
 # Documentation Pack
 
 This folder contains the formal documentation set for the Solar and Plasma Synthesiser project.
