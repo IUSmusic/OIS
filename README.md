@@ -1,3 +1,34 @@
+
+# SolarSynth
+
+SolarSynth is a dual-engine instrument that combines a solar field synthesiser with a DMS-inspired rhythm engine.
+
+## Current architecture
+
+### SolarSynth engine
+- Helio, Radio, and Plasma field synthesis
+- Morph and Morph Lock
+- Field Hold and Sustain
+- Arpeggiator
+- Filter, EQ, delay, reverb, bass, stereo width, motion, and depth
+- Preset save and load
+- Master output recording and WAV export
+- Experimental external audio input modulation and pass-through
+- File input blending into the field engine
+
+### DMS rhythm engine
+- Three independent sequencer tracks
+- Per-track soundbank voice generation
+- Per-track metronome behavior
+- Per-track delay, reverb, and drive behavior
+- Optional per-track mode switching between DMS bank, synth, and hybrid routing
+
+### Routing and multi-track synth support
+- Master synth track fed from the SolarSynth engine
+- Three optional synth-capable lanes driven by sequencer routing
+- Routing matrix for sequencer-to-synth sends
+- Shared monitoring values for future top-row gauges on the main UI
+
 # Documentation Pack
 
 This folder contains the formal documentation set for the Solar and Plasma Synthesiser project.
