@@ -39,14 +39,6 @@ A concise professional sentence: Plasma models charged-wave turbulence as an uns
 
 **Together they form a composite sonic system that behaves more like a field than a conventional synth voice. MIDI and performance controls do not simply trigger a fixed patch. They excite, bias, and shape the relationship between these three engines in real time.**
 
-## What the app does
-
-SolarSynth is designed as a performance-first instrument rather than a traditional menu-driven editor. The synth can be played from external MIDI, the built-in on-screen keyboard, or the computer keyboard. Its output can then be captured into loopable playback lanes, creating a layered workflow that sits somewhere between a synthesizer, a sketchpad looper, and a rhythm-driven performance tool.
-
-The repository builds both:
-
-- a **standalone desktop app**
-- a **VST3 plug-in**
 
 ## Main features
 
