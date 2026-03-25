@@ -17,17 +17,17 @@ SolarSynth is a JUCE-based instrument that combines a playable three-layer synth
 
 **SolarSynth** is built around three complementary signal engines, each derived from a different physical aspect of solar and plasma behaviour. Rather than imitating traditional subtractive or keyboard synthesis, the instrument models three families of motion: solar oscillation, radio-burst activity, and plasma turbulence. These become the Helio, Radio, and Plasma engines.
 - **Helio**
-Helio is the resonant engine.
+- Helio is the resonant engine.
 It is based on helioseismology, the study of pressure waves and oscillations moving through the Sun. NASA describes the Sun as a body filled with waves that travel, bounce, and reveal internal motion, and notes that solar oscillations include well-known five-minute surface motions as well as larger-scale wave behaviour. In the instrument, that science is translated into a harmonic field built from slow-moving resonances, modal clusters, and continuously shifting energy rather than a fixed note-on, note-off voice. The result is the body of the sound: tonal, structural, and spatially stable.
 A concise professional sentence: Helio models the Sun’s oscillatory interior as a living resonant field, giving the instrument its harmonic body, weight, and long-form motion.
 
 - **Radio**
-Radio is the event and signal engine.
+- Radio is the event and signal engine.
 It is based on solar radio emissions, especially burst activity produced when energetic electrons accelerated by solar flares move through surrounding plasma and emit radio waves. ESA’s Solar Orbiter material describes these events as radio bursts whose frequency drops as the electrons travel away from the Sun, creating the distinctive falling “hockey stick” structure seen in real data and heard in sonifications as descending tones. In the instrument, that becomes a layer of chirps, sweeps, bursts, and transient signal behaviour. Radio adds articulation, edge, and communicative movement to the sound.
 A concise professional sentence: Radio models solar burst behaviour as a dynamic signal layer, introducing chirps, sweeps, and transient activity that express the Sun’s more communicative and energetic side.
 
 - **Plasma**
-Plasma is the turbulence engine.
+- Plasma is the turbulence engine.
 It is based on the behaviour of charged particles and plasma waves in heliophysical environments. NASA describes plasma-wave data as producing audible whistles, crunches, whooshes, and chorus-like structures when audified, reflecting the interaction of particles, magnetic fields, and wave motion. In the instrument, that science becomes a textural engine built around instability, turbulence, modulation density, and charged motion. Plasma is what gives the sound its electric surface, roughness, and sense of living disturbance.
 A concise professional sentence: Plasma models charged-wave turbulence as an unstable textural field, adding friction, motion, and electrical complexity to the instrument.
 
