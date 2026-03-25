@@ -1,69 +1,158 @@
-I/US SolarSynth Demo Personal Use License 1.1
+# I/US SolarSynth Demo Personal Use License 1.2
 
-Copyright (c) 2026 Pezhman Farhangi
-I/US Music
+**Last updated:** [25 March 2026]
 
-Scope
+This repository is **source-available** and **not open source**.
 
-This license applies to the original I/US-owned portions of the SolarSynth demo package, including original source files, original UI and logo assets, packaged demo builds, and related documentation, except where a file, folder, dependency, or notice clearly states that different license terms apply.
+Copyright © [year] [legal owner name]. All rights reserved.
 
-Permitted Use
+"I/US Music", "SolarSynth", related logos, trade dress, and branding are trademarks or registered trademarks of [legal owner name] and are **not** licensed under this License.
 
-You may:
+---
 
-- install and use this demo for your own personal, private, non-commercial evaluation and testing
-- keep a reasonable number of private backup copies
-- make private modifications for your own personal, non-commercial evaluation only, provided you do not redistribute those modifications
+## 1. Definitions
 
-Restrictions
+For purposes of this License:
 
-You may not, without prior written permission from I/US Music:
+- **"Licensor"** means [legal owner name].
+- **"Software"** means this repository and all original materials made available by the Licensor in or with it, including without limitation:
+  - source code
+  - binaries and demo builds
+  - plug-ins
+  - presets created by the Licensor
+  - user interface assets
+  - logos and visual assets
+  - audio examples and media created by the Licensor
+  - documentation and written materials
+- **"Third-Party Materials"** means any software, libraries, fonts, media, samples, or other materials that are licensed by third parties and included in, linked from, or used with the Software.
+- **"You"** means the individual or legal entity exercising rights under this License.
+- **"Personal Evaluation Use"** means personal, private, non-commercial review, testing, experimentation, and evaluation of the Software by You for Your own internal purposes only.
 
-- sell, rent, lease, sublicense, publish, host, redistribute, or otherwise make this software or any modified version available to any third party
-- use this software or any modified version for commercial purposes, client work, paid services, public installations, product integration, or revenue-generating activity
-- distribute source code, compiled builds, packaged versions, or modified copies
-- remove or alter copyright, authorship, ownership, attribution, trademark, or license notices
-- use the software in a way that suggests official endorsement, certification, or affiliation where none has been granted in writing
+---
 
-Demo Version
+## 2. Acceptance
 
-This is a demo version of the software. Features may be incomplete, experimental, changed, limited, or removed at any time. No maintenance, support, updates, compatibility guarantees, or continued availability are promised.
+By accessing, viewing, downloading, copying, cloning, forking, building, installing, or otherwise using any part of the Software, You agree to be bound by this License.
 
-Third-Party and Separately Licensed Components
+If You do not agree to this License, do not access, copy, clone, fork, build, install, or use the Software.
 
-This software may include, reference, or depend on third-party or open-source components. Those components remain governed by their own applicable licenses and notices.
+---
 
-Nothing in this license narrows rights already granted to you under any separate third-party or open-source license, and nothing in this license removes any obligations that apply to such components.
+## 3. Ownership
 
-If a file, folder, dependency, or notice states a different license, that separate license continues to apply to that material.
+The Software is licensed, not sold.
 
-For clarity:
+As between You and the Licensor, the Licensor retains all right, title, and interest in and to the Software and all associated intellectual property rights, including without limitation all copyright, database rights, design rights, trade mark rights, patent rights, trade secret rights, and all other proprietary rights, except only for the limited permissions expressly granted in this License.
 
-- builds of this software may include or depend on the JUCE framework, which remains subject to its own applicable license terms
-- any files or materials already published under MPL-2.0 or another separate open-source license remain under those terms for the material covered by those notices
+No rights are granted by implication, estoppel, exhaustion, or otherwise.
 
-Ownership
+---
 
-All rights not expressly granted under this license are reserved.
+## 4. Limited License Grant
 
-This license does not transfer ownership of the software, documentation, designs, concepts, brand identity, logos, artwork, audio branding, or any related intellectual property.
+Subject to Your full compliance with this License, the Licensor grants You a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to:
 
-No Trademark or Brand Rights
+1. access and view the public repository;
+2. download, clone, or fork the repository **only to the extent technically necessary** to inspect, build, test, and privately evaluate the Software;
+3. run the Software privately for Personal Evaluation Use; and
+4. make private modifications for Personal Evaluation Use, provided those modifications are **not shared, published, distributed, or otherwise made available to any third party**.
 
-This license does not grant any right to use the names I/US, IUS, I/US Music, the official logo, the visual identity, artwork, images, audio branding, or any other protected brand assets, except as embedded in this demo build for normal permitted personal use.
+This is the only license granted.
 
-Any separate use of those brand assets requires prior written permission from I/US Music.
+---
 
-No Warranty
+## 5. Conditions and Restrictions
 
-This software and all associated materials are provided "as is", without warranty of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, noninfringement, accuracy, availability, or uninterrupted operation.
+You may **not**, and may not permit others to:
 
-In no event shall the author, copyright holder, or rights holder be liable for any claim, damages, losses, or other liability, whether in contract, tort, or otherwise, arising from, out of, or in connection with the software or the use of or inability to use the software.
+1. use the Software for any commercial purpose;
+2. sell, license, sublicense, rent, lease, assign, distribute, publish, host, transmit, or otherwise make the Software available to any third party;
+3. distribute source code, binaries, modified versions, derivative works, or ports of the Software;
+4. use the Software in any product, service, plug-in, SaaS offering, hosted service, or production environment;
+5. use the Software for client work, paid work, internal commercial R&D, or any revenue-generating activity;
+6. remove, alter, obscure, or bypass any copyright, trade mark, attribution, or proprietary notices;
+7. use the Licensor's trade marks, product names, logos, domain names, or branding, except solely to identify the unmodified Software as provided by the Licensor;
+8. represent or imply any endorsement, affiliation, certification, sponsorship, or approval by the Licensor;
+9. redistribute a fork, mirror, archive, package, or copy of the Software outside the narrow Personal Evaluation Use allowed by this License;
+10. publish benchmarks, comparative tests, reverse-engineering results, or security analyses intended for public release without the Licensor's prior written permission, except where such restriction is prohibited by applicable law;
+11. use the Software or any substantial part of it to train, fine-tune, or improve machine learning or AI models, except with the Licensor's prior written permission;
+12. extract, copy, or reuse distinctive non-functional creative elements of the Software, including original UI artwork, branding, documentation, visual identity, or curated media, except as expressly permitted by this License.
 
-Acceptance
+For clarity, **public posting of modified code**, **shipping a derived plug-in**, **re-uploading binaries**, **mirroring the repository**, or **commercializing any part of the Software** is prohibited unless the Licensor gives prior written permission.
 
-By clicking "OK I Agree", installing, copying, accessing, or continuing to use this software, you acknowledge that you have read and accepted this license.
+---
 
-Contact
+## 6. Public GitHub Repository Clarification
 
-For licensing requests, commercial rights, redistribution requests, or permission to use protected brand assets, prior written permission must be obtained from I/US Music.
+This repository may be publicly visible on GitHub or a similar platform.
+
+Any ability to view, clone, or fork the repository that is provided by platform functionality does **not** grant You any broader copyright, commercial, redistribution, trade mark, patent, or other rights beyond the narrow permissions expressly stated in this License.
+
+Any fork or copy must remain subject to this License.
+
+---
+
+## 7. Third-Party Materials
+
+This License applies only to the Licensor's rights in the Software.
+
+Third-Party Materials are and remain subject to their own license terms. You are solely responsible for reviewing and complying with all applicable third-party license terms, notices, attributions, and restrictions.
+
+If there is a conflict between this License and a mandatory third-party license applicable to a specific Third-Party Material, the third-party license controls **only** for that Third-Party Material.
+
+Nothing in this License grants You rights to any Third-Party Materials beyond what their own licenses permit.
+
+---
+
+## 8. Feedback
+
+If You send the Licensor suggestions, comments, ideas, bug reports, feature requests, or other feedback regarding the Software, You grant the Licensor a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license to use, reproduce, modify, adapt, publish, and otherwise exploit that feedback for any purpose, without compensation or obligation to You.
+
+You are not required to provide feedback.
+
+---
+
+## 9. No Open-Source License
+
+The Software is **not** licensed under an OSI-approved open-source license.
+
+No right is granted to use, modify, distribute, or create publicly shared derivative works except as expressly set out in this License.
+
+---
+
+## 10. Trade Marks and Branding
+
+No trade mark license is granted.
+
+Without prior written permission from the Licensor, You may not use any trade marks, service marks, logos, product names, trade dress, or branding of the Licensor, including without limitation:
+
+- **I/US Music**
+- **SolarSynth**
+- associated logos
+- associated visual branding
+
+You may refer to the Software by name only in a factual, non-misleading manner necessary to identify the original unmodified project.
+
+---
+
+## 11. Ideas, Methods, and Patents
+
+This License grants rights only in the copyrighted Software and only to the limited extent expressly stated.
+
+This License does **not** grant any right to:
+
+- any patent
+- any registered design or unregistered design right
+- any trade secret or confidential information
+- any manufacturing, DSP, or synthesis method except as embodied in the Software solely for Personal Evaluation Use
+- any business idea, product roadmap, brand strategy, or commercial concept of the Licensor
+
+If You require commercial, patent, OEM, white-label, research, collaboration, or other rights, You must obtain a separate written agreement from the Licensor.
+
+---
+
+## 12. Termination
+
+This License terminates automatically and immediately if You breach any term of it.
+
+Upon termination, You must immediately cease all use of the Software and
