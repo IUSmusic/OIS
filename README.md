@@ -1,14 +1,16 @@
-**Demo Version**
-- *Standalone App*
-- Windows 64-bit 
-- Linux 64-bit AppImage
+## Downloads
 
-**Plugin**
-- *VST3*
-- Windows 64-bit 
-- Linux 64-bit
+### Demo Version
 
+#### Standalone App
+- [Windows 64-bit](./SolarSynth%20for%20Window.exe)
+- [Linux 64-bit AppImage](./SolarSynth%20for%20Linux.AppImage)
 
+### Plugin
+
+#### VST3
+- [Windows 64-bit](./SolarSynth%20VST3%20for%20Windows.vst3.zip)
+- [Linux 64-bit](./SolarSynth%20VST3%20for%20Linux.vst3.zip)
 
 # SolarSynth
 
