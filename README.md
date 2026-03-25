@@ -1,9 +1,5 @@
 ## v0.1a
 Demo Version
-
-- ![0Preview](solarsynthpreview01.png)
-- ![0Preview](solarsynthsettingpreview.png)
-
 #### Standalone App
 - [Windows 64-bit](./SolarSynth%20for%20Window.exe)
 - [Linux 64-bit AppImage](./SolarSynth%20for%20Linux.AppImage)
@@ -12,6 +8,11 @@ Demo Version
 VST3
 - [Windows 64-bit](./SolarSynth%20VST3%20for%20Windows.vst3.zip)
 - [Linux 64-bit](./SolarSynth%20VST3%20for%20Linux.vst3.zip)
+
+
+
+- ![0Preview](solarsynthpreview01.png)
+- ![0Preview](solarsynthsettingpreview.png)
 
 # SolarSynth
 
