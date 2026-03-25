@@ -19,7 +19,6 @@ The project is built around a dual-page workflow:
 
 - **Live** for performance, transport, capture, lane playback, and quick toggles
 - **Settings** for deep sound design, routing, morphing, and preset management
-- 
 
 - **SolarSynth** is built around three complementary signal engines, each derived from a different physical aspect of solar and plasma behaviour. Rather than imitating traditional subtractive or keyboard synthesis, the instrument models three families of motion: solar oscillation, radio-burst activity, and plasma turbulence. These become the Helio, Radio, and Plasma engines.
 - **Helio**
