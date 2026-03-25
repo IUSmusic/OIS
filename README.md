@@ -1,7 +1,6 @@
 **Demo Version**
 *Standalone App*
 - Windows 64-bit 
-- macOS Apple Silicon and Intel 
 - Linux 64-bit AppImage 
 *Plugin*
 VST3 
