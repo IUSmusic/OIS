@@ -129,19 +129,8 @@ Tracks **1–3** act as playback lanes that can:
 This makes it possible to perform the synth live, print results into lanes, and build layered playback beneath the master output.
 
 ### 7. Internal rhythm engine and lane routing
+(will update soon)
 
-The app also includes a built-in **three-track DMS-inspired sequencer engine**. Each internal sequencer track has its own configuration and can operate in different routing modes:
-
-- **DMS bank**
-- **Synth**
-- **Hybrid**
-
-Settings-page controls expose:
-
-- Lane 1 / 2 / 3 Mode
-- Lane 1 / 2 / 3 Send
-
-This routing system allows sequencer activity to influence how the synth behaves across the master path and the additional lane states.
 
 ### 8. External input modulation
 
