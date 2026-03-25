@@ -5,7 +5,6 @@
 *Plugin*
 VST3 
 - Windows 64-bit 
-- macOS 64-bit 
 - Linux 64-bit
 
 
