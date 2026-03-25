@@ -1,3 +1,5 @@
+![Preview](solarsynthpost.png)
+
 ## Demo Version v0.1a
 #### Standalone App
 - [Windows 64-bit](./SolarSynth%20for%20Window.exe)
