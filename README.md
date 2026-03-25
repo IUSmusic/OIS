@@ -1,3 +1,16 @@
+**Demo Version**
+Standalone App
+     Windows  64-bit 
+     macOS  Apple Silicon and Intel 
+     Linux  64-bit AppImage 
+Plugin
+     VST3 
+        Windows  64-bit 
+        macOS  64-bit 
+        Linux  64-bit
+
+
+
 # SolarSynth
 
 SolarSynth is a JUCE-based instrument that combines a playable three-layer synth engine, internal rhythmic trigger lanes, live performance controls, and audio capture into one desktop application and VST3 plug-in.
