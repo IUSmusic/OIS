@@ -28,7 +28,8 @@ It is based on solar radio emissions, especially burst activity produced when en
 
 
 ## Plasma
-- Plasma is the turbulence engine.
+
+Plasma is the turbulence engine.
 It is based on the behaviour of charged particles and plasma waves in heliophysical environments. NASA describes plasma-wave data as producing audible whistles, crunches, whooshes, and chorus-like structures when audified, reflecting the interaction of particles, magnetic fields, and wave motion. In the instrument, that science becomes a textural engine built around instability, turbulence, modulation density, and charged motion. Plasma is what gives the sound its electric surface, roughness, and sense of living disturbance.
 
 
