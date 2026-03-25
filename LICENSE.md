@@ -1,0 +1,158 @@
+# I/US SolarSynth Demo Personal Use License 1.2
+
+**Last updated:** [25 March 2026]
+
+This repository is **source-available** and **not open source**.
+
+Copyright © [year] [legal owner name]. All rights reserved.
+
+"I/US Music", "SolarSynth", related logos, trade dress, and branding are trademarks or registered trademarks of [legal owner name] and are **not** licensed under this License.
+
+---
+
+## 1. Definitions
+
+For purposes of this License:
+
+- **"Licensor"** means [legal owner name].
+- **"Software"** means this repository and all original materials made available by the Licensor in or with it, including without limitation:
+  - source code
+  - binaries and demo builds
+  - plug-ins
+  - presets created by the Licensor
+  - user interface assets
+  - logos and visual assets
+  - audio examples and media created by the Licensor
+  - documentation and written materials
+- **"Third-Party Materials"** means any software, libraries, fonts, media, samples, or other materials that are licensed by third parties and included in, linked from, or used with the Software.
+- **"You"** means the individual or legal entity exercising rights under this License.
+- **"Personal Evaluation Use"** means personal, private, non-commercial review, testing, experimentation, and evaluation of the Software by You for Your own internal purposes only.
+
+---
+
+## 2. Acceptance
+
+By accessing, viewing, downloading, copying, cloning, forking, building, installing, or otherwise using any part of the Software, You agree to be bound by this License.
+
+If You do not agree to this License, do not access, copy, clone, fork, build, install, or use the Software.
+
+---
+
+## 3. Ownership
+
+The Software is licensed, not sold.
+
+As between You and the Licensor, the Licensor retains all right, title, and interest in and to the Software and all associated intellectual property rights, including without limitation all copyright, database rights, design rights, trade mark rights, patent rights, trade secret rights, and all other proprietary rights, except only for the limited permissions expressly granted in this License.
+
+No rights are granted by implication, estoppel, exhaustion, or otherwise.
+
+---
+
+## 4. Limited License Grant
+
+Subject to Your full compliance with this License, the Licensor grants You a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to:
+
+1. access and view the public repository;
+2. download, clone, or fork the repository **only to the extent technically necessary** to inspect, build, test, and privately evaluate the Software;
+3. run the Software privately for Personal Evaluation Use; and
+4. make private modifications for Personal Evaluation Use, provided those modifications are **not shared, published, distributed, or otherwise made available to any third party**.
+
+This is the only license granted.
+
+---
+
+## 5. Conditions and Restrictions
+
+You may **not**, and may not permit others to:
+
+1. use the Software for any commercial purpose;
+2. sell, license, sublicense, rent, lease, assign, distribute, publish, host, transmit, or otherwise make the Software available to any third party;
+3. distribute source code, binaries, modified versions, derivative works, or ports of the Software;
+4. use the Software in any product, service, plug-in, SaaS offering, hosted service, or production environment;
+5. use the Software for client work, paid work, internal commercial R&D, or any revenue-generating activity;
+6. remove, alter, obscure, or bypass any copyright, trade mark, attribution, or proprietary notices;
+7. use the Licensor's trade marks, product names, logos, domain names, or branding, except solely to identify the unmodified Software as provided by the Licensor;
+8. represent or imply any endorsement, affiliation, certification, sponsorship, or approval by the Licensor;
+9. redistribute a fork, mirror, archive, package, or copy of the Software outside the narrow Personal Evaluation Use allowed by this License;
+10. publish benchmarks, comparative tests, reverse-engineering results, or security analyses intended for public release without the Licensor's prior written permission, except where such restriction is prohibited by applicable law;
+11. use the Software or any substantial part of it to train, fine-tune, or improve machine learning or AI models, except with the Licensor's prior written permission;
+12. extract, copy, or reuse distinctive non-functional creative elements of the Software, including original UI artwork, branding, documentation, visual identity, or curated media, except as expressly permitted by this License.
+
+For clarity, **public posting of modified code**, **shipping a derived plug-in**, **re-uploading binaries**, **mirroring the repository**, or **commercializing any part of the Software** is prohibited unless the Licensor gives prior written permission.
+
+---
+
+## 6. Public GitHub Repository Clarification
+
+This repository may be publicly visible on GitHub or a similar platform.
+
+Any ability to view, clone, or fork the repository that is provided by platform functionality does **not** grant You any broader copyright, commercial, redistribution, trade mark, patent, or other rights beyond the narrow permissions expressly stated in this License.
+
+Any fork or copy must remain subject to this License.
+
+---
+
+## 7. Third-Party Materials
+
+This License applies only to the Licensor's rights in the Software.
+
+Third-Party Materials are and remain subject to their own license terms. You are solely responsible for reviewing and complying with all applicable third-party license terms, notices, attributions, and restrictions.
+
+If there is a conflict between this License and a mandatory third-party license applicable to a specific Third-Party Material, the third-party license controls **only** for that Third-Party Material.
+
+Nothing in this License grants You rights to any Third-Party Materials beyond what their own licenses permit.
+
+---
+
+## 8. Feedback
+
+If You send the Licensor suggestions, comments, ideas, bug reports, feature requests, or other feedback regarding the Software, You grant the Licensor a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license to use, reproduce, modify, adapt, publish, and otherwise exploit that feedback for any purpose, without compensation or obligation to You.
+
+You are not required to provide feedback.
+
+---
+
+## 9. No Open-Source License
+
+The Software is **not** licensed under an OSI-approved open-source license.
+
+No right is granted to use, modify, distribute, or create publicly shared derivative works except as expressly set out in this License.
+
+---
+
+## 10. Trade Marks and Branding
+
+No trade mark license is granted.
+
+Without prior written permission from the Licensor, You may not use any trade marks, service marks, logos, product names, trade dress, or branding of the Licensor, including without limitation:
+
+- **I/US Music**
+- **SolarSynth**
+- associated logos
+- associated visual branding
+
+You may refer to the Software by name only in a factual, non-misleading manner necessary to identify the original unmodified project.
+
+---
+
+## 11. Ideas, Methods, and Patents
+
+This License grants rights only in the copyrighted Software and only to the limited extent expressly stated.
+
+This License does **not** grant any right to:
+
+- any patent
+- any registered design or unregistered design right
+- any trade secret or confidential information
+- any manufacturing, DSP, or synthesis method except as embodied in the Software solely for Personal Evaluation Use
+- any business idea, product roadmap, brand strategy, or commercial concept of the Licensor
+
+If You require commercial, patent, OEM, white-label, research, collaboration, or other rights, You must obtain a separate written agreement from the Licensor.
+
+---
+
+## 12. Termination
+
+This License terminates automatically and immediately if You breach any term of it.
+
+Upon termination, You must immediately cease all use of the Software and
