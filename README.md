@@ -2,7 +2,11 @@
 <div align="center">
 
 
-**Official Website: iusmusic.com/solarsynth.html**
+**Official Website**
+
+https://iusmusic.com/solarsynth.html
+
+
 # SolarSynth
 
 **An experimental software synthesizer modeled on solar physics**
