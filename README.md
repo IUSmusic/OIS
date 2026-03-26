@@ -1,35 +1,18 @@
+
 <div align="center">
 
-#SolarSynth
+# SolarSynth
 
-**An experimental software synthesizer modeled on solar physics**  
+**An experimental software synthesizer modeled on solar physics**
 *Three-layer engine - Live performance - MIDI & keyboard playable - Standalone + VST3*
 
-[
-
 ![License](https://img.shields.io/badge/License-Personal%20Use%201.2-blueviolet?style=flat-square)
-
-](./LICENSE)
-[
-
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-informational?style=flat-square&logo=linux&logoColor=white)
-
-](https://github.com/IUSmusic/SolarSynth)
-[
-
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-informational?style=flat-square)
 ![Format](https://img.shields.io/badge/Format-Standalone%20%7C%20VST3-orange?style=flat-square)
+![JUCE](https://img.shields.io/badge/Built%20with-JUCE-red?style=flat-square)
+![C++17](https://img.shields.io/badge/Language-C%2B%2B17-blue?style=flat-square)
 
-](https://github.com/IUSmusic/SolarSynth)
-[
-
-![Built with JUCE](https://img.shields.io/badge/Built%20with-JUCE-red?style=flat-square)
-
-](https://juce.com)
-[
-
-![Language](https://img.shields.io/badge/Language-C%2B%2B17-blue?style=flat-square&logo=cplusplus)
-
-](https://github.com/IUSmusic/SolarSynth)
+</div>
 
 ---
 
@@ -42,39 +25,17 @@
 
 ---
 
-
-
+<div align="center">
+  
+![SolarSyntM Post](./solarsynthpost.png)
 ![SolarSynth Main Interface](./solarsynthpreview01.png)
-
-
-
-
 ![SolarSynth Settings Page](./solarsynthsettingpreview.png)
-
-
 
 </div>
 
 ---
 
-
-
-https://iusmusic.com/solarsynth.html
-
-![Preview](solarsynthpost.png)
-
-## Demo Version v0.1a
-#### Standalone App
-- [Windows 64-bit](./SolarSynth%20for%20Window.exe)
-- [Linux 64-bit AppImage](./SolarSynth%20for%20Linux.AppImage)
-
-#### Plugin
-VST3
-- [Windows 64-bit](./SolarSynth%20VST3%20for%20Windows.vst3.zip)
-- [Linux 64-bit](./SolarSynth%20VST3%20for%20Linux.vst3.zip)
-
-![Preview](solarsynthpreview01.png)
-![Preview](solarsynthsettingpreview.png)
+**Official Website Page: https://iusmusic.com/solarsynth.html**
 
 # SolarSynth
 
