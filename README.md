@@ -15,7 +15,8 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ### Download Demo Version v0.1a
 
 | Platform | Standalone | VST3 Plugin |
