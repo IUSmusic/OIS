@@ -1,3 +1,64 @@
+<div align="center">
+
+#SolarSynth
+
+**An experimental software synthesizer modeled on solar physics**  
+*Three-layer engine - Live performance - MIDI & keyboard playable - Standalone + VST3*
+
+[
+
+![License](https://img.shields.io/badge/License-Personal%20Use%201.2-blueviolet?style=flat-square)
+
+](./LICENSE)
+[
+
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-informational?style=flat-square&logo=linux&logoColor=white)
+
+](https://github.com/IUSmusic/SolarSynth)
+[
+
+![Format](https://img.shields.io/badge/Format-Standalone%20%7C%20VST3-orange?style=flat-square)
+
+](https://github.com/IUSmusic/SolarSynth)
+[
+
+![Built with JUCE](https://img.shields.io/badge/Built%20with-JUCE-red?style=flat-square)
+
+](https://juce.com)
+[
+
+![Language](https://img.shields.io/badge/Language-C%2B%2B17-blue?style=flat-square&logo=cplusplus)
+
+](https://github.com/IUSmusic/SolarSynth)
+
+---
+
+### Download Demo Version v0.1a
+
+| Platform | Standalone | VST3 Plugin |
+|----------|-----------|-------------|
+| **Windows 64-bit** | [SolarSynth for Windows.exe](https://github.com/IUSmusic/SolarSynth/blob/main/SolarSynth%20for%20Window.exe) | [VST3 for Windows](https://github.com/IUSmusic/SolarSynth/blob/main/SolarSynth%20VST3%20for%20Windows.vst3.zip) |
+| **Linux 64-bit** | [SolarSynth for Linux.AppImage](https://github.com/IUSmusic/SolarSynth/blob/main/SolarSynth%20for%20Linux.AppImage) | [VST3 for Linux](https://github.com/IUSmusic/SolarSynth/blob/main/SolarSynth%20VST3%20for%20Linux.vst3.zip) |
+
+---
+
+
+
+![SolarSynth Main Interface](./solarsynthpreview01.png)
+
+
+
+
+![SolarSynth Settings Page](./solarsynthsettingpreview.png)
+
+
+
+</div>
+
+---
+
+
+
 https://iusmusic.com/solarsynth.html
 
 ![Preview](solarsynthpost.png)
